@@ -127,7 +127,7 @@ Backend service for executing user-submitted code inside isolated Docker environ
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyasnml&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyasnml&hide_border=true&area=true&theme=github-dark" />
 </p>
 
 ## 🌍 Open Source
